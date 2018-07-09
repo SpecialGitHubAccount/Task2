@@ -1,0 +1,8 @@
+C:\Users\Islam_Rakymbay\documents\visual studio 2015\Projects\Task2\Task1\bin\Release\Task1.exe.config
+C:\Users\Islam_Rakymbay\documents\visual studio 2015\Projects\Task2\Task1\bin\Release\Task1.exe
+C:\Users\Islam_Rakymbay\documents\visual studio 2015\Projects\Task2\Task1\bin\Release\Task1.pdb
+C:\Users\Islam_Rakymbay\documents\visual studio 2015\Projects\Task2\Task1\bin\Release\Converter.dll
+C:\Users\Islam_Rakymbay\documents\visual studio 2015\Projects\Task2\Task1\bin\Release\Converter.pdb
+C:\Users\Islam_Rakymbay\documents\visual studio 2015\Projects\Task2\Task1\obj\Release\Task1.csprojResolveAssemblyReference.cache
+C:\Users\Islam_Rakymbay\documents\visual studio 2015\Projects\Task2\Task1\obj\Release\Task1.exe
+C:\Users\Islam_Rakymbay\documents\visual studio 2015\Projects\Task2\Task1\obj\Release\Task1.pdb

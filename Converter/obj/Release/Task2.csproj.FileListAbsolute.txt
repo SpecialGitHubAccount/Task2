@@ -1,0 +1,4 @@
+C:\Users\Islam_Rakymbay\documents\visual studio 2015\Projects\Task2\Converter\bin\Release\Converter.dll
+C:\Users\Islam_Rakymbay\documents\visual studio 2015\Projects\Task2\Converter\bin\Release\Converter.pdb
+C:\Users\Islam_Rakymbay\documents\visual studio 2015\Projects\Task2\Converter\obj\Release\Converter.dll
+C:\Users\Islam_Rakymbay\documents\visual studio 2015\Projects\Task2\Converter\obj\Release\Converter.pdb
